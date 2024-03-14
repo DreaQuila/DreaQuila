@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, World! 👋
+My name is Andrea and I am a Front End Software Developer from South Florida. I became a developer after working in the spa industry for more than a decade. 
+
 
 <!--
 **DreaQuila/DreaQuila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
