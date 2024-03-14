@@ -1,6 +1,7 @@
 ### Hello, World! 👋
 My name is Andrea and I am a Front End Software Developer from South Florida. I became a developer after working in the spa industry for more than a decade. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreaquila&hide=contribs,prs)
 
 <!--
 **DreaQuila/DreaQuila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
