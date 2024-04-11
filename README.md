@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings, World! 👋<br>I'm Andrea, a web developer deeply passionate about sculpting captivating and effective digital journeys. <br>My forte lies in transforming imaginative concepts into dynamic web solutions that captivate users and drive results. <br>Possessing a comprehensive grasp of both frontend and backend technologies, I specialize in full-stack development. <br>By harmoniously blending frontend interfaces with backend functionality, I craft seamless web solutions that harmonize user requirements with business goals.
+Greetings, World! 👋<br>I'm Andrea, a web developer that enjoys sculpting captivating and effective digital journeys. <br>My forte lies in transforming imaginative concepts into dynamic web solutions that captivate users and drive results. <br>Possessing a comprehensive grasp of both frontend and backend technologies, I specialize in full-stack development. <br>By harmoniously blending frontend interfaces with backend functionality, I craft seamless web solutions that harmonize user requirements with business goals. I am currently working a spa web app that features a seamless booking system. I have a knack for finding solutions that can improve usability.
 
 
 ## 🌐 Socials:
